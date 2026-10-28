@@ -1,0 +1,9 @@
+# Заголовок скорборда
+title: "Scoreboard"
+
+# Градиент заголовка (HEX)
+gradient-from: "#55FFFF"
+gradient-to: "#AA55FF"
+
+# Как часто обновлять, в тиках (20 тиков = 1 секунда)
+update-interval: 5

@@ -1,0 +1,5 @@
+name: Scoreboard
+version: 1.0.0
+main: dev.scoreboard.ScoreboardPlugin
+api-version: '1.21'
+description: Sidebar scoreboard with live player and server info
